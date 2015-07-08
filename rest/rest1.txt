@@ -3,4 +3,9 @@
 feature-11 work
 feature-12 work
 
+<<<<<<< HEAD
 sdfsdf
+=======
+
+sddfff
+>>>>>>> feature-21

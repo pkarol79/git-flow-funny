@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 2
 
 sdfdsf
+=======
+rest 2
+
+fff
+>>>>>>> feature-21
