@@ -1,9 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 2
 
 sdfdsf
 =======
 rest 2
+=======
+1
+>>>>>>> no message
 
 fff
 >>>>>>> feature-21
