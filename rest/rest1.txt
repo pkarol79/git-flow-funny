@@ -1,15 +1,1 @@
-<<<<<<< HEAD
-2
-=======
-1
->>>>>>> no message
-
-feature-11 work
-feature-12 work
-
-<<<<<<< HEAD
-sdfsdf
-=======
-
-sddfff
->>>>>>> feature-21
+feature 21 - file content
